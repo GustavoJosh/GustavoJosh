@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hola%2C+me+llamo+Gustavo;Programador+de+nivel+intermedio+(creo);Maineo+zed+en+leaugue+of+legends.;%E2%9A%A1+Hago+un+arroz+frito+que+cambia+vidas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hola%2C+me+llamo+Gustavo;Programador+de+nivel+intermedio+(creo);Maineo+zed+en+league+of+legends.;Hago+un+arroz+frito+que+cambia+vidas;Balatro;)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mí
 
