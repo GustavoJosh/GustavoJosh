@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hola%2C+me+llamo+Gustavo;Programador+de+nivel+intermedio+(creo);Maineo+zed+en+league+of+legends.;Hago+un+arroz+frito+que+cambia+vidas;Balatro;)](https://git.io/typing-svg)
 
-## 🚀 Sobre mí
+##    Quien soy
 
-- 💻 Hola, me llamo Gustavo y soy un programador de nivel intermedio (creo). Quiero ser programador de nivel alto en un futuro cercano.
-- 🤝 Quisiera conocer gente interesada en participar en proyectos locales y probar estrategias de marketing
-- 🛠️ Trabajo principalmente en Python, uso JavaScript, C#, C++, y una que otra estructura de base de datos. Dispuesto a aprender más lenguajes o frameworks.
-- 🎯 Me interesa participar en proyectos para la industria restaurantera, marketing y automatización.
-- 📫 **Contacto:** gustavobanuelos22@gmail.com
-- ⚡  Hago un arroz frito que cambia vidas.
+-  Hola, me llamo Gustavo y soy un programador de nivel intermedio (creo). Quiero ser programador de nivel alto en un futuro cercano.
+-  Quisiera conocer gente interesada en participar en proyectos locales y probar estrategias de marketing
+-  Trabajo principalmente en Python, uso JavaScript, C#, C++, y una que otra estructura de base de datos. Dispuesto a aprender más lenguajes o frameworks.
+-  Me interesa participar en proyectos para la industria restaurantera, marketing y automatización.
+-  **Contacto:** gustavobanuelos22@gmail.com
+-  Hago un arroz frito que cambia vidas.
 
 ## 🛠️ Tech Stack
 
